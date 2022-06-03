@@ -1,0 +1,1 @@
+var = 'I am amazed'
